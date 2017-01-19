@@ -1,8 +1,8 @@
 <img src="images/gecco_logo_HQ.png" width="25%" />
 
-Date and Time: TBD (July 15 or 16, 2017) at [GECCO 2017](http://gecco-2017.sigevo.org/)
+Date: TBD between July 15-16, 2017
 
-Location: [Andel's by Vienna House Hotel](https://www.viennahouse.com/en/andels-berlin/the-hotel/overview.html) in Berlin, Germany
+Location: [Andel's by Vienna House Hotel](https://www.viennahouse.com/en/andels-berlin/the-hotel/overview.html) in Berlin, Germany @ [GECCO 2017](http://gecco-2017.sigevo.org/)
 
 <!-- No schedule yet
 ### Schedule
@@ -23,13 +23,13 @@ TBD
 
 ### Important Dates
 
-Workshop paper submission deadline: April 3 8, 2015
+Workshop paper submission deadline: TBD
 
-Notification of acceptance: April 20 25, 2015
+Notification of acceptance: TBD
 
-Camera-ready deadline: May 5 10, 2015
+Camera-ready deadline: April 24, 2017
 
-Registration deadline: May 4, 2015
+Registration deadline: TBD
 
 ### Paper Submission
 
