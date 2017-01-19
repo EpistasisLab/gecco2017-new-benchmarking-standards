@@ -66,3 +66,5 @@ This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk
 <img src="images/ryan.jpg" width="200px" align="left" style="margin-right:10px" />
 
 [Dr. Urbanowicz](http://www.ryanurbanowicz.com/) is a research associate with a Ph.D in Genetics from Dartmouth College and a Masters of Bioengineering from Cornell University. His research focuses on the development of rule-based machine learning methods for complex bioinformatics problems and complex data simulation for proper algorithm evaluation and comparison. At GECCO he has authored two best papers, and organized the rule-based machine learning workshop and tutorial for 4 years each.
+
+<br /><br/>
