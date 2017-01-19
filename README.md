@@ -19,9 +19,7 @@ This workshop will host speakers from around the world who will propose new stan
 
 ### Call for Papers
 
-The focus of this workshop is to highlight promising, new standards for benchmarking practices in evolutionary computation research. As such, we are soliciting papers that focus on the following topics:
-
-* TBD
+The focus of this workshop is to highlight promising new standards for benchmarking practices in evolutionary computation research. As such, we are soliciting papers that survey existing benchmarking practices, improve state-of-the-art benchmarking practices, or some combination thereof.
 
 ### Important Dates
 
