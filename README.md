@@ -61,7 +61,7 @@ This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk
 
 [Dr. Orzechowski](http://home.agh.edu.pl/~patrick/) is a postdoctoral researcher in AI. He obtained his Ph.D. in Computer Science and a Masters of Automation and Robotics from AGH University of Science and Technology, Krakow, Poland. His scientific interests are in the areas of machine learning, bioinformatics and artificial intelligence. He also specializes in data mining and mobile technologies.
 
-<br />
+<br /><br />
 
 <img src="images/ryan.jpg" width="200px" align="left" style="margin-right:10px" />
 
