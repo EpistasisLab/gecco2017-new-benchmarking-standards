@@ -23,9 +23,9 @@ TBD
 
 ### Important Dates
 
-Workshop paper submission deadline: TBD
+Workshop paper submission deadline: March 27, 2017
 
-Notification of acceptance: TBD
+Notification of acceptance: April 10, 2017
 
 Camera-ready deadline: April 24, 2017
 
