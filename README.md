@@ -1,8 +1,7 @@
 <img src="images/gecco_logo_HQ.png" />
 
-## Location
-
 Time: TBD (July 15 or 16, 2017) at [GECCO 2017](http://gecco-2017.sigevo.org/)
+
 Location: [Andel's by Vienna House Hotel](https://www.viennahouse.com/en/andels-berlin/the-hotel/overview.html) in Berlin, Germany
 
 ## Schedule
