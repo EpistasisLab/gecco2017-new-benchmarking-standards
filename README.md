@@ -33,19 +33,23 @@ Registration deadline: TBD
 
 ### Paper Submission
 
-TBD
+Submitted papers must not exceed 8 pages and are required to be in compliance with the [GECCO 2017 Call for Papers Preparation Instructions](http://gecco-2017.sigevo.org/index.html/Call+for+Papers). However, note that the review process of the workshop is not double-blind, so authors' information should be included in the paper.
+
+To submit a paper to the workshop, e-mail papers to <a href="mailto:olsonran@upenn.edu">olsonran@upenn.edu</a>.
+
+All accepted papers will be presented at the workshop and appear in the GECCO Conference Companion Proceedings.
 
 ### Organizers
 
 This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk Orzechowski, and Ryan J. Urbanowicz, all from the Institute for Biomedical Informatics at the University of Pennsylvania (Philadelphia, PA, USA).
 
-<p>
+<div>
 <img src="images/bill.jpg" width="25%" align="left" style="padding:10px" />
 
 [Dr. La Cava](http://www.williamlacava.com/) is a postdoctoral fellow who received his Ph.D. from the University of Massachusetts Amherst under Professors Kourosh Danai and Lee Spector. His research focus is system identification for dynamic systems in statistical genetics. He has contributed papers to GECCO in the genetic programming track on methods for local search and parent selection.
 </p>
 
-<p>
+</div>
 <img src="images/randy.jpg" width="25%" align="left" style="padding:10px" />
 
 [Dr. Olson](http://www.randalolson.com) is a Senior Data Scientist working on open source software for evolutionary computation and machine learning research. Dr. Olson received his Ph.D. from Michigan State University, where he studied under Prof. Christoph Adami at the BEACON Center. He has been actively involved in GECCO for several years and won best paper awards at GECCO in 2014 and 2016 for his work in evolutionary agent-based modeling and automated machine learning.
