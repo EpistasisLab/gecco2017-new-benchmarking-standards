@@ -1,12 +1,15 @@
-<img src="images/gecco_logo_HQ.png" />
+<img src="images/gecco_logo_HQ.png" width="25%" />
 
-Time: TBD (July 15 or 16, 2017) at [GECCO 2017](http://gecco-2017.sigevo.org/)
+Date and Time: TBD (July 15 or 16, 2017) at [GECCO 2017](http://gecco-2017.sigevo.org/)
 
 Location: [Andel's by Vienna House Hotel](https://www.viennahouse.com/en/andels-berlin/the-hotel/overview.html) in Berlin, Germany
 
+<!-- No schedule yet
 ## Schedule
 
 TBD
+
+-->
 
 ## Workshop Description
 
