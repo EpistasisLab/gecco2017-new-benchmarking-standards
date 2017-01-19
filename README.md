@@ -61,6 +61,8 @@ This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk
 
 [Dr. Orzechowski](http://home.agh.edu.pl/~patrick/) is a postdoctoral researcher in AI. He obtained his Ph.D. in Computer Science and a Masters of Automation and Robotics from AGH University of Science and Technology, Krakow, Poland. His scientific interests are in the areas of machine learning, bioinformatics and artificial intelligence. He also specializes in data mining and mobile technologies.
 
+<br />
+
 <img src="images/ryan.jpg" width="200px" align="left" style="margin-right:10px" />
 
 [Dr. Urbanowicz](http://www.ryanurbanowicz.com/) is a research associate with a Ph.D in Genetics from Dartmouth College and a Masters of Bioengineering from Cornell University. His research focuses on the development of rule-based machine learning methods for complex bioinformatics problems and complex data simulation for proper algorithm evaluation and comparison. At GECCO he has authored two best papers, and organized the rule-based machine learning workshop and tutorial for 4 years each.
