@@ -19,7 +19,9 @@ This workshop will host speakers from around the world who will propose new stan
 
 ### Call for Papers
 
-The focus of this workshop is to highlight promising, new standards for benchmarking practices in evolutionary computation research. 
+The focus of this workshop is to highlight promising, new standards for benchmarking practices in evolutionary computation research. As such, we are soliciting papers that focus on the following topics:
+
+* TBD
 
 ### Important Dates
 
@@ -53,11 +55,11 @@ This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk
 
 [Dr. Olson](http://www.randalolson.com/) is a Senior Data Scientist working on open source software for evolutionary computation and machine learning research. Dr. Olson received his Ph.D. from Michigan State University, where he studied under Prof. Christoph Adami at the BEACON Center. He has been actively involved in GECCO for several years and won best paper awards at GECCO in 2014 and 2016 for his work in evolutionary agent-based modeling and automated machine learning.
 
+<br />
+
 <img src="images/patryk.jpg" width="200px" align="left" style="margin-right:10px" />
 
 [Dr. Orzechowski](http://home.agh.edu.pl/~patrick/) is a postdoctoral researcher in AI. He obtained his Ph.D. in Computer Science and a Masters of Automation and Robotics from AGH University of Science and Technology, Krakow, Poland. His scientific interests are in the areas of machine learning, bioinformatics and artificial intelligence. He also specializes in data mining and mobile technologies.
-
-<br />
 
 <img src="images/ryan.jpg" width="200px" align="left" style="margin-right:10px" />
 
