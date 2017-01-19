@@ -1,4 +1,4 @@
-<img src="images/gecco_logo_HQ.png" width="25%" />
+<img src="images/gecco_logo_HQ.png" width="35%" />
 
 Date: TBD between July 15-16, 2017
 
@@ -41,7 +41,7 @@ This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk
 
 [Dr. La Cava](http://www.williamlacava.com/) is a postdoctoral fellow who received his Ph.D. from the University of Massachusetts Amherst under Professors Kourosh Danai and Lee Spector. His research focus is system identification for dynamic systems in statistical genetics. He has contributed papers to GECCO in the genetic programming track on methods for local search and parent selection.
 
-<img src="images/randy_tampa.jpg" width="25%" align="left" />
+<img src="images/randy_tampa.jpg" width="25%" align="left" style="padding:10px" />
 
 [Dr. Olson](http://www.randalolson.com) is a Senior Data Scientist working on open source software for evolutionary computation and machine learning research. Dr. Olson received his Ph.D. from Michigan State University, where he studied under Prof. Christoph Adami at the BEACON Center. He has been actively involved in GECCO for several years and won best paper awards at GECCO in 2014 and 2016 for his work in evolutionary agent-based modeling and automated machine learning.
 
