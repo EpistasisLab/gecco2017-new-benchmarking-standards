@@ -19,7 +19,7 @@ This workshop will host speakers from around the world who will propose new stan
 
 ### Call for Papers
 
-The focus of this workshop is to
+The focus of this workshop is to highlight promising, new standards for benchmarking practices in evolutionary computation research. 
 
 ### Important Dates
 
@@ -47,7 +47,7 @@ This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk
 
 [Dr. La Cava](http://www.williamlacava.com/) is a postdoctoral fellow who received his Ph.D. from the University of Massachusetts Amherst under Professors Kourosh Danai and Lee Spector. His research focus is system identification for dynamic systems in statistical genetics. He has contributed papers to GECCO in the genetic programming track on methods for local search and parent selection.
 
-<br />
+<br /><br />
 
 <img src="images/randy.jpg" width="200px" align="left" style="margin-right:10px" />
 
