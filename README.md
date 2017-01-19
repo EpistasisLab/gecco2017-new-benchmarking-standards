@@ -5,31 +5,37 @@ Date and Time: TBD (July 15 or 16, 2017) at [GECCO 2017](http://gecco-2017.sigev
 Location: [Andel's by Vienna House Hotel](https://www.viennahouse.com/en/andels-berlin/the-hotel/overview.html) in Berlin, Germany
 
 <!-- No schedule yet
-## Schedule
+### Schedule
 
 TBD
 
 -->
 
-## Workshop Description
+### Workshop Description
 
 Benchmarks are one of the primary tools that machine learning researchers use to demonstrate the strengths and weaknesses of an algorithm, and to compare new algorithms to existing ones on a common ground. However, numerous researchers---including prominent researchers in the evolutionary computation field [[1](https://cs.gmu.edu/~sean/papers/gecco12benchmarks3.pdf), [2](http://dl.acm.org/citation.cfm?id=2330273), [3](https://dspace.mit.edu/openaccess-disseminate/1721.1/104909)]---have raised concerns that the current benchmarking practices in machine learning are insufficient: most commonly-used benchmarks are too small, lack the complexity of real-world problems, or are easily solved by basic machine learning algorithms. As such, **we need to establish new standards for benchmarking in evolutionary computation research** so we can objectively compare novel algorithms and fully demonstrate where they excel and where they can be improved.
 
 This workshop will host speakers from around the world who will propose new standards for benchmarking evolutionary computation algorithms. These talks will focus on (i) characterizing current benchmarking methods to better understand what properties of an algorithm are tested via a benchmark comparison, and (ii) proposing improvements to benchmarking standards, for example via new benchmarks that fill gaps in current benchmarking suites or via better experimental methods. At the end of the workshop, we will host a panel discussion to review the merits of the proposed benchmarking standards and how we can integrate them into existing benchmarking workflows.
 
-## Call for Papers
+### Call for Papers
 
 TBD
 
-## Important Dates
+### Important Dates
+
+Workshop paper submission deadline: April 3 8, 2015
+
+Notification of acceptance: April 20 25, 2015
+
+Camera-ready deadline: May 5 10, 2015
+
+Registration deadline: May 4, 2015
+
+### Paper Submission
 
 TBD
 
-## Paper Submission
-
-TBD
-
-## Organizers
+### Organizers
 
 This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk Orzechowski, and Ryan J. Urbanowicz, all from the Institute for Biomedical Informatics at the University of Pennsylvania (Philadelphia, PA, USA).
 
