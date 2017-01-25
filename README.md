@@ -41,7 +41,7 @@ Registration deadline: TBD
 
 Submitted papers must not exceed 8 pages and are required to be in compliance with the [GECCO 2017 Call for Papers Preparation Instructions](http://gecco-2017.sigevo.org/index.html/Call+for+Papers). However, note that the review process of the workshop is not double-blind, so authors' information should be included in the paper.
 
-To submit a paper to the workshop, e-mail papers to <a href="mailto:olsonran@upenn.edu">olsonran@upenn.edu</a>.
+To submit a paper to the workshop, e-mail your paper to <a href="mailto:olsonran@upenn.edu">olsonran@upenn.edu</a>.
 
 All accepted papers will be presented at the workshop and appear in the GECCO Conference Companion Proceedings.
 
