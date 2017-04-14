@@ -33,9 +33,9 @@ Workshop paper submission deadline: March 27, 2017
 
 Notification of acceptance: April 10, 2017
 
-Camera-ready deadline: April 24, 2017
+Camera-ready deadline: April 27, 2017
 
-Registration deadline: TBD
+Registration deadline: May 1, 2017
 
 ### Paper Submission
 
