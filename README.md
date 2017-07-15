@@ -1,6 +1,6 @@
 <img src="images/gecco_logo.jpg" width="35%" />
 
-Date: Sunday July 16, 2017 (14:00-15:50)
+Date: **Sunday July 16, 2017 (14:00-15:50)**
 
 Location: **Amethyst room** at [Andel's by Vienna House Hotel](https://www.viennahouse.com/en/andels-berlin/the-hotel/overview.html) in Berlin, Germany @ [GECCO 2017](http://gecco-2017.sigevo.org/)
 
