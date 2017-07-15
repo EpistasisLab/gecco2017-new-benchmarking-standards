@@ -1,15 +1,30 @@
 <img src="images/gecco_logo.jpg" width="35%" />
 
-Date: TBD between July 15-16, 2017
+Date: Sunday July 16, 2017 (14:00-15:50)
 
-Location: [Andel's by Vienna House Hotel](https://www.viennahouse.com/en/andels-berlin/the-hotel/overview.html) in Berlin, Germany @ [GECCO 2017](http://gecco-2017.sigevo.org/)
+Location: **Amethyst room** at [Andel's by Vienna House Hotel](https://www.viennahouse.com/en/andels-berlin/the-hotel/overview.html) in Berlin, Germany @ [GECCO 2017](http://gecco-2017.sigevo.org/)
 
-<!-- No schedule yet
 ### Schedule
 
-TBD
+We will have four presentations during the workshop, each 15 minutes long (+ 5 minutes for questions).
 
--->
+**Generating custom classification datasets by targeting the instance space**
+
+by Mario Andrés Muñoz & Kate Smith-Miles
+
+**CryptoBench: Benchmarking Evolutionary Algorithms with Cryptographic Problems**
+
+by Stjepan Picek, Domagoj Jakobovic, & Una-May O’Reilly
+
+**On the Difficulty of Benchmarking Inductive Program Synthesis Methods**
+
+by Edward Pantridge, Thomas Helmuth, Nicholas Freitag McPhee, & Lee Spector
+
+**Performance Testing of Automated Modeling for Industrial Applications**
+
+by Dylan Sherry & Michael Schmidt
+
+Following the talks, we will have about **15 minutes for general discussion** of the talks and benchmarking standards for evolutionary computation.
 
 ### Workshop Description
 
