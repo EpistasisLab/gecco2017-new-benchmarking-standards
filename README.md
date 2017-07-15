@@ -10,19 +10,19 @@ We will have four presentations during the workshop, each 15 minutes long (+ 5 m
 
 **Generating custom classification datasets by targeting the instance space**
 
-by Mario Andrés Muñoz & Kate Smith-Miles
+&nbsp;&nbsp;&nbsp;&nbsp;by Mario Andrés Muñoz & Kate Smith-Miles
 
 **CryptoBench: Benchmarking Evolutionary Algorithms with Cryptographic Problems**
 
-by Stjepan Picek, Domagoj Jakobovic, & Una-May O’Reilly
+&nbsp;&nbsp;&nbsp;&nbsp;by Stjepan Picek, Domagoj Jakobovic, & Una-May O’Reilly
 
 **On the Difficulty of Benchmarking Inductive Program Synthesis Methods**
 
-by Edward Pantridge, Thomas Helmuth, Nicholas Freitag McPhee, & Lee Spector
+&nbsp;&nbsp;&nbsp;&nbsp;by Edward Pantridge, Thomas Helmuth, Nicholas Freitag McPhee, & Lee Spector
 
 **Performance Testing of Automated Modeling for Industrial Applications**
 
-by Dylan Sherry & Michael Schmidt
+&nbsp;&nbsp;&nbsp;&nbsp;by Dylan Sherry & Michael Schmidt
 
 Following the talks, we will have about **15 minutes for general discussion** of the talks and benchmarking standards for evolutionary computation.
 
